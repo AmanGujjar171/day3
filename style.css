@@ -1,0 +1,51 @@
+  body {
+     background-color: gray;
+ }
+
+ .card {
+
+     background-color: white;
+     height: 480px;
+     width: 355px;
+     border-radius: 10px;
+ }
+
+ .img {
+    padding: 16px;
+    
+ }
+ .img img{
+    border-radius: 10px;
+ }
+ .para{
+    padding: 0px 30px;
+ }
+ .para span{
+    display: inline;
+    margin: 5px 1px;
+    padding: 5px 10px;
+    border: 0.5px solid gray;
+    border-radius: 20px;
+}
+h1{
+    margin-left: 30px;
+    font-size: 25px;
+}
+p{
+    margin-left: 30px;
+    color: gray;
+}
+.button{
+    margin-left: 130px;
+}
+.button button{
+    border: 0.5px solid white;
+    color: rgb(1, 134, 243);
+    background-color: lightblue;
+    border-radius: 25px;
+    padding: 15px 25px;
+    
+
+
+}
+
